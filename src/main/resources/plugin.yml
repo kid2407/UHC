@@ -1,0 +1,8 @@
+name: UHC
+version: '${project.version}'
+main: de.kid2407.uhc.UHC
+api-version: 1.17
+prefix: UHC
+authors: [ kid2407 ]
+description: A plugin to automatically set up UHC related things on a new server.
+load: STARTUP
